@@ -1,0 +1,42 @@
+.header {
+	color: white;
+	text-align: center;
+	height: 100px;
+	text-transform: capitalize;
+	text-transform: uppercase;
+	text-shadow: 3px 2px red;
+}
+body {
+     background-image: url("img/SON_SPORTS (2).jpg");
+     background-attachment: fixed;
+     background-size: cover;
+     font-family: Lucida;
+     
+}
+
+.about {
+	text-align: center;
+	color: white;
+	text-shadow: 3px 2px red;
+
+}
+
+.teams {
+	text-align: center;
+	color: white;
+	text-shadow: 3px 2px red;
+}
+
+.table {
+	text-align: center;
+	color: white;
+	text-shadow: 3px 2px red;
+}
+.footer {
+	text-align: center;
+	color: white;
+	text-shadow: 3px 2px red;
+}
+.about ul {
+	list-style-type: none;
+}
